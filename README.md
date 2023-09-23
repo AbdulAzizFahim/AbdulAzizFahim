@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Abdul+Aziz+Fahim;Software+Engineer...;Competitive+Programmer...;Hardcore+Gamer"/>
 
-<img align="right" height="407px" width="400px"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ```javascript
 var Let_Me_Introduce_Myself = {
   "name": "Abdul Aziz (Fahim)",
