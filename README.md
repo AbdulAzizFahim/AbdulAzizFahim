@@ -1,17 +1,33 @@
-# Hey there👋, Welcome to my Github Profile
+# Hey there👋, ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdulAzizFahim%2FAbdulAzizFahim.git&countColor=%23263759&style=flat)
+[![](https://img.shields.io/static/v1?logo=gmail&label=%20&message=AbdulAzizFahim99.com&style=flat-sqaure&color=white&logoColor=red)](mailto:AbdulAzizFahim99@gmail.com)
+[![](https://img.shields.io/static/v1?logo=linkedin&label=%20&message=abdulazizfahim&style=flat-sqaure&color=white&logoColor=blue)](https://www.linkedin.com/in/abdulazizfahim/)
 
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="100%" height="fit-content" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Abdul+Aziz+Fahim;Software+Engineer...;Competitive+Programmer...;Hardcore+Gamer"/>
- 
- <p>- <i>A software engineer currently working at Enosis Solutions.</i></p>
- 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-## ⚡🙋‍♂️ About Me
-- 🔧 I’m currently working on ...Enosis Solutions.
 
-- 💡 I’m curious about ...Dotnet.
-- 📖 I’m currently learning ...React.
-- 📫 How to reach me ... AbdulAzizFahim99@gmail.com
-<hr>
+
+```javascript
+var Let_Me_Introduce_Myself = {
+  "name": "Abdul Aziz (Fahim)",
+  "title": "Software Engineer",
+  "from": "Bangladesh",
+  "status": "working full-time",
+  "graduation" : {
+    "university": "Ahsanullah University of Science and Technology",
+    "degree": "Bachelor of Science",
+    "major": "Computer Science & Engineering",
+    "year": "2023"
+  },
+  "interests": [
+    "Dotnet", "React", "Typescript", "C#",
+  ], 
+  "hobbies": [
+    "gaming", "problem solving", "teaching",
+    "books", "leadership"
+  ],
+};
+```
 ## 🛠️ Skills
 
 #### Languages
@@ -36,29 +52,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 
 #### Tools and Technologies
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 <hr>
 
-<h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Posts  </h3>
-[Helo](https://www.google.com/)
-
-
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
-</div>
- 
-
- 
-
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
-
-<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
-</br>
-</br>
+&nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Posts
+1. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/solutions/2805203/dfs-different-approach-dp-o-n-2-simple/) (LeetCode)
+2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/solutions/2351132/binary-search-approach-easy-o-nlogn/) (LeetCode)
