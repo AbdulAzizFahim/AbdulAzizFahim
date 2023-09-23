@@ -1,11 +1,12 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 # Hey there👋, ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdulAzizFahim%2FAbdulAzizFahim.git&countColor=%23263759&style=flat)
 [![](https://img.shields.io/static/v1?logo=gmail&label=%20&message=AbdulAzizFahim99.com&style=flat-sqaure&color=white&logoColor=red)](mailto:AbdulAzizFahim99@gmail.com)
 [![](https://img.shields.io/static/v1?logo=linkedin&label=%20&message=abdulazizfahim&style=flat-sqaure&color=white&logoColor=blue)](https://www.linkedin.com/in/abdulazizfahim/)
 
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="100%" height="fit-content" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Abdul+Aziz+Fahim;Software+Engineer...;Competitive+Programmer...;Hardcore+Gamer"/>
 
+<img align="right" height="407px" width="400px"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ```javascript
 var Let_Me_Introduce_Myself = {
@@ -28,6 +29,8 @@ var Let_Me_Introduce_Myself = {
   ],
 };
 ```
+
+<hr>
 ## 🛠️ Skills
 
 #### Languages
