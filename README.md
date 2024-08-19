@@ -20,7 +20,7 @@ var Let_Me_Introduce_Myself = {
     "year": "2023"
   },
   "interests": [
-    "Dotnet", "React", "Typescript", "C#",
+    "NextJs", ".NET Core", "Typescript",
   ], 
   "hobbies": [
     "gaming", "problem solving", "teaching",
@@ -42,6 +42,7 @@ var Let_Me_Introduce_Myself = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Development
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -53,9 +54,10 @@ var Let_Me_Introduce_Myself = {
 
 
 #### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
