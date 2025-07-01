@@ -20,7 +20,7 @@ var Let_Me_Introduce_Myself = {
     "year": "2023"
   },
   "interests": [
-    "NextJs", ".NET Core", "Typescript",
+    "NextJs", ".NET Core", "Typescript", React.js, Node.js
   ], 
   "hobbies": [
     "gaming", "problem solving", "teaching",
